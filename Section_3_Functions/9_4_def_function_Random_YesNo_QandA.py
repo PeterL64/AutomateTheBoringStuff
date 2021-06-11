@@ -26,7 +26,7 @@ print(getAnswer(random.randint(1, 6)))
 # In the block of code, if the parameter is equal to certain values we have
 # programmed it to print a string answer.
 
-# Now whenn the program is ran it will print asking you to press enter.
+# Now when the program is ran it will print asking you to press enter.
 # Next line will ask the user for input. We did not constrict the user's input
 # so they technically can enter anything and press enter.
 # The last line will get a random integer between 1 and 6, assign that number to
