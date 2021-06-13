@@ -6,8 +6,8 @@ import time
 
 tier1 = ['France', 'Portugal', 'England','Germany', 'Belgium']
 tier2 = ['Netherlands', 'Italy', 'Spain', 'Denmark', 'Croatia' ]
-tier3 = ['Switzerland', 'Turkey','Poland','Russia','Sweden']
-tier4 = ['Ukraine', 'Austria', 'Czech Rep.', 'Wales', 'Scotland']
+tier3 = ['Austria', 'Scotland', 'Wales', 'Poland','Switzerland']
+tier4 = ['Ukraine', 'Turkey', 'Czech Rep.', 'Russia', 'Sweden']
 tier = [tier1, tier2, tier3, tier4]
 
 #print('Peters choices:')
